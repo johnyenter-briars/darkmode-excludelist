@@ -1,0 +1,5 @@
+google.com, twitter.com, youtube.com, 
+
+
+trello.com, reddit.com, imgur.com, github.com, about:home, localhost:8000, socialiser.live, stackoverflow.com, cooking.nytimes.com, linkedin.com, mail.google.com, account.proton.me, mail.proton.me, instagram.com, ebay.com, pay.ebay.com, paypal.com, trello.com
+
